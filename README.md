@@ -1,4 +1,4 @@
 # ClapperPlayer
-https://raw.githack.com/mehlam619/zp/master/clapper.html?src=
+https://raw.githack.com/xxxdangerousxxx/Player/master/clapper.html?src=
 # JwPlayer
-https://raw.githack.com/mehlam619/zp/master/jwplayer.html?src=
+https://raw.githack.com/xxxdangerousxxx/Player/master/jwplayer.html?src=
